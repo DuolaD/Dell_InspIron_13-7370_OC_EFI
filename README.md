@@ -33,6 +33,8 @@ DO NOT REPLACE ANY KIND OF HARD DISK AT THE LIST BELOW(Unless it run with SATA p
 · All hard disk releases by Samsung Inc.  
 · All hard disk that master is releases by Micron Inc./SK Hynix Inc./YingRen Inc.  
 
+After installed, I recommend use [Opencore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/) to modify serial number/UUID.
+
 Test laptop specification:
 ```
 - Name: Dell InspIron 13 7370
